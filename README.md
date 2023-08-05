@@ -3,3 +3,8 @@
 ## SOBRE ESTE PROYECTO
 
 Este proyecto tiene como objetivo hacer una lotteria decentralizada
+
+
+## Acerca de esta rama
+En esta rama trabajo desde la casa
+
