@@ -6,5 +6,5 @@ Este proyecto tiene como objetivo hacer una lotteria decentralizada
 
 
 ## Acerca de esta rama
-En esta rama es el main
+En esta rama es la del trabajo
 
